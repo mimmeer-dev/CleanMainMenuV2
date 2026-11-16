@@ -13,6 +13,6 @@ class $modify(MyMenuLayer, MenuLayer) {
 	}
 
 	void moveButtonsRow() {
-		CCMenu menu = this->getChildById("bottom-menu");
+		CCMenu menu = this->getChildByID("bottom-menu");
 	}
 };
