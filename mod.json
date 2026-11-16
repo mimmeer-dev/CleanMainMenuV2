@@ -7,10 +7,10 @@
 		"ios": "2.2091"
 	},
 	"id": "mimmeer.cleanmainmenuv2",
-	"name": "CleanMainMenuV2",
+	"name": "Revamped Main Menu",
 	"version": "v1.0.0",
 	"developer": "mimmeer",
-	"description": "Clean up your main menu with a fresh new design!",
+	"description": "Give your main menu a fresh new design!",
 	"dependencies": {
 		"geode.node-ids": ">=v1.23.3"
 	}
